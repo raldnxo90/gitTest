@@ -7,5 +7,6 @@
 </head>
 <body>
 	메인페이지 <br />
+	팀장 수정<br />
 </body>
 </html>
