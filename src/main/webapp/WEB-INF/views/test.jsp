@@ -7,6 +7,12 @@
 </head>
 <body>
 	<h1>#1 최신 프로젝트</h1>
+<<<<<<< HEAD
 	h2
+=======
+	<h2>#2 팀장 수정</h2>
+	
+	<h2>#2_1 팀원 수정</h2>
+>>>>>>> branch 'master' of https://github.com/raldnxo90/gitTest.git
 </body>
 </html>
