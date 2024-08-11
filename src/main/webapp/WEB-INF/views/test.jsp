@@ -3,15 +3,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>테스트 파일</title>
 </head>
 <body>
-	메인페이지 <br />
-	팀원 수정 <br />
-	팀장 수정<br />
-	팀원 수정 <br />
-	
-	최종수정
-	
+	<h1>#1 최신 프로젝트</h1>
 </body>
 </html>
